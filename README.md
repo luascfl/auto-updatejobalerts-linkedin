@@ -44,7 +44,7 @@ Este projeto não requer nenhuma instalação no sentido tradicional. Em vez dis
 2. **Clique no Bookmarklet:** Clique no bookmarklet que você criou. Pode aparecer uma mensagem pedindo para clicar novamente após o carregamento da página. Clique no bookmarklet novamente após uma breve espera. Caixas de seleção aparecerão ao lado de cada notificação.
 * Se você não estiver em (`https://www.linkedin.com/jobs/jam/`), o script irá redirecioná-lo para a página.
 
-3. **Clique em "Atualizar alertas do LinkedIn":** Clique no botão apropriado para excluir as notificações selecionadas.
+3. **Clique em "Atualizar alertas do LinkedIn":** Clique no botão apropriado para atualizar os alertas automaticamente.
 
 ## Estrutura do Projeto
 O projeto consiste em dois arquivos:
